@@ -1,0 +1,21 @@
+git init
+git add
+git commit -m
+git status
+git restore file name
+ git restore testing.py
+ git restore test.py
+ git remote add origin https://github.com/faisal2511/Github-Project.git
+ git status
+ history
+ git commit -m .\commands.txt
+ git status
+ git add .\commands.txt
+ git commit -m .\commands.txt
+ ls
+ git status
+ git remote add origin https://github.com/faisal2511/Github-Project.git
+ git remote -v
+ git remote set-url origin https://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@github.com/faisal2511/Github-Project.git       
+ git remote -v
+ git push origin master
